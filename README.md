@@ -28,7 +28,7 @@
 
 * 🏆 **成果物**　：[後処理コード (GitHub)](https://github.com/matsuolab/nedo_project_code/tree/team_kumagai/dMoE_postprocess)
 
-* 📢 **情報発信**：【終了】[プロジェクト成果報告（connpass）](https://matsuolab-community.connpass.com/event/368880/)　※[YouTubeアーカイブ](https://youtu.be/v_OYm7OgYyo?si=PR_wV1D7LFt4vnpv)
+* 📢 **情報発信**：【終了】[プロジェクト成果報告（connpass）](https://matsuolab-community.connpass.com/event/323269/)　※[YouTubeアーカイブ](https://youtu.be/v_OYm7OgYyo?si=PR_wV1D7LFt4vnpv)
 
 * 📝 **技術記事**：[後処理プロセスの解説（Zenn）](https://zenn.dev/matsuolab/articles/c521892085eda8)
 
